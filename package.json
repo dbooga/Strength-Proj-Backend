@@ -1,0 +1,24 @@
+{
+  "name": "strength-proj-backend",
+  "version": "1.0.0",
+  "description": "strength project backend REST apis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbooga/Strength-Proj-Backend.git"
+  },
+  "author": "David Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbooga/Strength-Proj-Backend/issues"
+  },
+  "homepage": "https://github.com/dbooga/Strength-Proj-Backend#readme"
+}
